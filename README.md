@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">I'm a Music Producer, Homelabber & Hobbyist-Coder</h3>
 
-My main project is currently [PVE NoteBuddy](https://github.com/JangaJones/pve-notebuddy)!
+My main project is currently [PVE NoteBuddy](https://github.com/JangaJones/pve-notebuddy)!<br>
 I'm constantly working on private projects as well, maybe some of them will be publicly available too at some point.
 
 
